@@ -78,13 +78,6 @@
 
 ---
 
-### 🚀 Featured Projects  
-<a href="https://github.com/Vishnum369/leaflens">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnum369&repo=leaflens&theme=radical" />
-</a>
-<a href="https://github.com/Vishnum369/SuiteControl-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishnum369&repo=SuiteControl-main&theme=radical" />
-</a>
 
 ---
 
