@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="#">Vishnu M</a> 👋</h1>
+ <h1 align="center">Hi there, I'm <a href="#">Vishnu M</a> 👋</h1>
 
 <p align="center">
   🚀 Data Science & AI Enthusiast | 💻 Python Developer | 🌿 Machine Learning Explorer
@@ -92,6 +92,46 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishnum369&theme=algolia&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+### 🐦 Latest Tweet
+<p align="center">
+  <a href="https://x.com/derickabhraham8" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20X-black?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✍ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Vishnum369&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### 💰 Support Me
+<p align="center">
+  <a href="https://www.buymeacoffee.com/vishnum369" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
+  </a>
+</p>
+
+---
+
+⭐ From [Vishnum369](https://github.com/Vishnum369)
 
 ### 👀 Profile Visitors  
 <p align="center">
